@@ -1,0 +1,34 @@
+# MSPM0 / CCS build products
+firmware/mspm0/Debug/
+firmware/mspm0/Release/
+firmware/mspm0/*.out
+firmware/mspm0/*.map
+firmware/mspm0/*.o
+firmware/mspm0/*.d
+firmware/mspm0/*.opt
+firmware/mspm0/*.xml
+
+# Android / Gradle
+android/.gradle/
+android/**/build/
+android/local.properties
+android/captures/
+android/*.jks
+android/*.keystore
+*.idsig
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Temporary files
+tmp/
+*.tmp
+~$*
