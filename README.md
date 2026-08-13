@@ -29,7 +29,17 @@ esp32/web_bridge/     ESP32 热点、网页服务器和 UART 桥接程序
 android/              Android App 源码及可安装 APK
 docs/problem/         B 题题目原文
 docs/guides/          程序、调参、无线通信和调试说明
+videos/               题目 1～4 实机演示视频
 ```
+
+## 演示视频
+
+- [题目 1 演示](videos/题目1.mp4)
+- [题目 2 演示](videos/题目2.mp4)
+- [题目 3 演示](videos/题目3.mp4)
+- [题目 4 演示](videos/题目4.mp4)
+
+视频内容和文件校验值见 [演示视频说明](videos/README.md)。
 
 ## 硬件与接口
 
